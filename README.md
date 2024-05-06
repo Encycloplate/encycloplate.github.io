@@ -20,3 +20,14 @@ To use it to make your own project it is really simple, and basically you just n
 §Text, or SilkrowText, is a custom, FOSS, lightweight markup language developed by me previously, and I re-used it here and and edited it to fit the needs of this project. To learn more about its syntax, I suggest taking a look at its [original repository](https://github.com/Pyrbor/SilkrowText). After you made your file, open its parser and type the path to your input file, the skt file, and the output file, the html file. It should look something like this if you didn't change the original file/folder structure:
 
 ![image](https://github.com/Encycloplate/encycloplate.github.io/assets/111013695/06c71998-457c-4dd9-a5b3-f84653c09fe3)
+
+# Feature of Encycloplate
+
+- Custom, editable and easy to use lightweight markup language
+- Fairly modern, and clean and readable CSS
+- Automatic keywording, desciption, title and SEO meta tags
+- HTML parser for the custom markup language
+- Wikipedia-like random article button/page
+- Automatic/smart Table of Contents generator script
+- Readable and pleasant homepage
+- Google Programmable Search Engine integration
