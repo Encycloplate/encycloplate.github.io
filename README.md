@@ -12,7 +12,7 @@ To use it to make your own project it is really simple, and basically you just n
 4. Write your article in an [.skt markup language](#silkrow) file in proper §Text formatting
 5. Execute the silkrowparser.py and select the input .skt file path and the output .html path
 6. Add the name of your new article in random.js under the js folder
-7. Credit me and this repository in a visible part of your website :)
+7. Read the license
 8. Make a new GitHub repository following the [Pages documentation](https://pages.github.com/) and dump the files and folders there
 9. It should automatically deploy your website to the internet
 
