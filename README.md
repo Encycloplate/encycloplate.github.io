@@ -7,10 +7,16 @@ To use it to make your own project it is really simple, and basically you just n
 1. Fork this repository or download the files
 2. Download the Python 3.11.9 or newer at the [official Python website](https://www.python.org/downloads/)
 3. Customise the branding to your own, and optionally, the styles
-4. Write your article in an .skt markup language file in proper §Text formatting
+4. Write your article in an [.skt markup language](#silkrow) file in proper §Text formatting
 5. Execute the silkrowparser.py and select the input .skt file path and the output .html path
 6. Add the name of your new article in random.js under the js folder
 7. Credit me and this repository in a visible part of your website :)
 8. Make a new GitHub repository following the [Pages documentation](https://pages.github.com/) and dump the files and folders there
 9. It should automatically deploy your website to the internet
 
+<a name="silkrow"></a>
+
+# About §Text
+§Text, or SilkrowText, is a custom, FOSS, lightweight markup language developed by me previously, and I re-used it here and and edited it to fit the needs of this project. To learn more about its syntax, I suggest taking a look at its [original repository](https://github.com/Pyrbor/SilkrowText). After you made your file, open its parser and type the path to your input file, the skt file, and the output file, the html file. It should look something like this if you didn't change the original file/folder structure:
+
+![image](https://github.com/Encycloplate/encycloplate.github.io/assets/111013695/06c71998-457c-4dd9-a5b3-f84653c09fe3)
