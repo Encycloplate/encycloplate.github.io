@@ -100,6 +100,7 @@ def create_html_from_text(text_file, existing_html_file):
     article_start = html_content.find("<article>") + len("<article>")
     article_end = html_content.find("</article>")
     html_content = html_content[:article_start] + f"""
+    <p class="toc" onclick="informtoc();">ToC</p>
     <h1 class="title">{title}</h1>
     <p class="subtitle">{subtitle}</p>
     <div class="topics"><p>{topics}</p></div>
@@ -115,6 +116,7 @@ def create_html_from_text(text_file, existing_html_file):
     <link rel="stylesheet" type="text/css" href="../styles/font.css">
     <link rel="stylesheet" type="text/css" href="../styles/style.css">
     <script src="../js/info.js"></script>
+    <script src="../js/toc.js"></script>
     <link rel="icon" type="x-icon" href="../img/encycloplate.png">
     <title>Encycloplate - {title}</title>
     <meta name="description" content="{subtitle}">
