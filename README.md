@@ -1,6 +1,8 @@
 # What is the Encycloplate?
 The Encycloplate is a completely free template, a base for indie, authoritative non-wiki online encyclopedias about anything, with built-in useful JavaScript functions such as its own, custom, easy to use markup language with an automatic parser to HTML, an automatic, hassle-free ToC (Table of Contents) maker, a subtitle popup function, working random page button, modern CSS and more! You don't need to be an expert in coding, styling, formatting and SEO to make your encyclopedia anymore.
 
+Please see the license before using this template.
+
 # How to use it?
 To use it to make your own project it is really simple, and basically you just need to fork it or download the files, customize the branding, style, and add your pages. Here is a list of steps you need to make:
 
