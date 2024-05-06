@@ -14,6 +14,9 @@ To use it to make your own project it is really simple, and basically you just n
 8. Make a new GitHub repository following the [Pages documentation](https://pages.github.com/) and dump the files and folders there
 9. It should automatically deploy your website to the internet
 
+# About the search box
+In the home page there is a custom [Google Programmable Search Engine](https://programmablesearchengine.google.com/about/) box that, as it is an example, will only search in Wikipedia. However you can make your own and seamlessly integrate it into the page. To make your own, go to their website, make a new search engine and put your pages there. After you set it up, replace the google meta tag on the index.html with yours and you are done.
+
 <a name="silkrow"></a>
 
 # About §Text
